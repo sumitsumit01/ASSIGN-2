@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cinzel&family=Dancing+Script&family=Passions+Conflict&family=Permanent+Marker&family=Playfair+Display+SC&display=swap');
+div {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+}
+
+nav{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+nav ol{
+    display: flex;
+    gap: 170px;
+    align-items: center;}
+
+div li{
+    font-family: 'Cinzel', serif;
+}
+p#p1{
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    color: black;
+}
+p#p2{
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    color: black;
+}
+p#p3{
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    color: black;
+}
+footer{
+    align-content: baseline;
+}
+footer cite{
+
+    margin-left: 95%;
+    align-items: baseline;
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cinzel&family=Dancing+Script&family=Passions+Conflict&family=Permanent+Marker&family=Playfair+Display+SC&display=swap');
+header{
+    background-image: url("/images/smt.jpeg");
+    background-position: top;
+    
+}
+h1 {
+    text-align: center;
+    background-color: grey;
+    font-family: 'Playfair Display SC', serif;
+    
+}
+
+div {
+    
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    font-family: 'Cinzel', serif;
+    
+}
+p#p1{
+    background-color: grey;
+    font-family: 'Playfair Display SC', serif;
+}
+p#p2{
+    background-color: grey;
+    font-family: 'Playfair Display SC', serif;
+}
+img{
+    width: 100%;
+}
+nav{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+}
+nav ol{
+    display: flex;
+    gap: 170px;
+    align-items: center;}
+
+aside{
+    width: 10%;
+    order: 1;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    flex-wrap: wrap;
+    
+}
+footer{
+    align-content: baseline;
+}
+footer cite{
+
+    margin-left: 95%;
+    align-items: baseline;
+}

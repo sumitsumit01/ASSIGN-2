@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cinzel&family=Dancing+Script&family=Passions+Conflict&family=Permanent+Marker&family=Playfair+Display+SC&display=swap');
+div{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+div > p{
+    text-align: center;
+    
+}
+nav{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+nav ol{
+    display: flex;
+    gap: 170px;
+    align-items: center;}
+
+body header p{
+    font-family: 'Cinzel', serif;
+}
+fieldset{
+    width: 90%;
+    text-align: center;
+    background-image:url("../images/smt.jpeg");
+    background-position:top;
+    margin-left: auto;
+    margin-right: auto;  
+    font-family: 'Dancing Script', cursive; 
+
+}
+footer{
+    align-content: baseline;
+}
+body{
+    background-image: url("../images/smt.jpeg");
+}
+fieldset legend{
+    color: red;
+    text-shadow: 1px;
+    
+}
+
+footer cite{
+
+    margin-left: 95%;
+    align-items: baseline;
+}
